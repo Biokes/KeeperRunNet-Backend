@@ -30,7 +30,7 @@ KeeperNet Backend is a robust TypeScript Node.js service that listens to Soroban
 |-------|-----------|
 | Language | TypeScript 5 |
 | Runtime | Node.js >= 18 |
-| Web Framework | Fastify |
+| Web Framework | express |
 | Database | PostgreSQL + Prisma ORM |
 | Blockchain | Stellar SDK (JS), Soroban RPC Client |
 | Testing | Vitest |
